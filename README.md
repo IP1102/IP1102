@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Code, Software, Machine Learning, etc. will keep going. Here, listen to what I am currently listening - 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sobbs3ba0gscobaj9c5ifpx5y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=sobbs3ba0gscobaj9c5ifpx5y&redirect=true)
