@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](meme2.png)
+
+I do software engineering and machine learning stuff. 
