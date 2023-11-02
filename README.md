@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](meme2.png)
+<!-- ![](meme2.png) -->
 
 I do software engineering and machine learning stuff. 
